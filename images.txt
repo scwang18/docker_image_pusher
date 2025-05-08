@@ -1,5 +1,6 @@
 #支持私库
 xprobe/xinference:v1.5.1
 infiniflow/ragflow:v0.18.0-slim
+infiniflow/ragflow:v0.18.0
 #支持指定架构
 #--platform=linux/arm64 镜像名字
